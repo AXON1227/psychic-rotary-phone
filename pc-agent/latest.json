@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "download_url": "https://raw.githubusercontent.com/AXON1227/psychic-rotary-phone/main/pc-agent/pc-agent-update-1.4.2.zip",
-  "sha256": "8feff874fe6a49c42c1f0932f43d06e0e71a31e5100e667fbecea635066164e7",
-  "notes": "화면 아래 요소를 미리 분석하고 반복·무효 스크롤을 차단하도록 개선"
+  "version": "1.4.3",
+  "download_url": "https://raw.githubusercontent.com/AXON1227/psychic-rotary-phone/main/pc-agent/pc-agent-update-1.4.3.zip",
+  "sha256": "bbd16e8220ad4be0dda7088010a75af121f49da0193551809f99c7014c23d8ef",
+  "notes": "구형 확장프로그램 연결 차단, ChatGPT 탭 보호 및 보이는 전용 작업 탭 적용"
 }
