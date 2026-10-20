@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://raw.githubusercontent.com/AXON1227/psychic-rotary-phone/main/pc-agent/pc-agent-update-1.4.1.zip",
-  "sha256": "566dec87493b725f66a8b948f75ee406566b7e90dee1b93f3e87bbbdf0cefd38",
-  "notes": "스크롤 중단 문제 수정 및 ChatGPT 탭을 보존하는 전용 백그라운드 작업 탭 추가"
+  "version": "1.4.2",
+  "download_url": "https://raw.githubusercontent.com/AXON1227/psychic-rotary-phone/main/pc-agent/pc-agent-update-1.4.2.zip",
+  "sha256": "8feff874fe6a49c42c1f0932f43d06e0e71a31e5100e667fbecea635066164e7",
+  "notes": "화면 아래 요소를 미리 분석하고 반복·무효 스크롤을 차단하도록 개선"
 }
