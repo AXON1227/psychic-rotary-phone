@@ -1,0 +1,6 @@
+{
+  "version": "1.4.0",
+  "download_url": "https://raw.githubusercontent.com/AXON1227/psychic-rotary-phone/main/pc-agent/pc-agent-update-1.4.0.zip",
+  "sha256": "5e3139f88e60ce2cbffe0734da7e98d59493b2b2f8febf9fd679e731504e65ba",
+  "notes": "자동 업데이트 기능과 ChatGPT 구독 요청 오류 수정"
+}
